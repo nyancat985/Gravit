@@ -214,4 +214,4 @@ Gravit is offered as a **full free version** with all features and updates inclu
 Start your design journey today with Gravit! Download now to unlock your creativity with the official **free download** of Gravit for Windows.
 
 ---
-**Last updated:** 2026-11-01 12:59:45 UTC
+**Last updated:** 2026-11-01 18:23:52 UTC
